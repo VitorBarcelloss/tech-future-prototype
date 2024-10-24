@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "chincharon-prototype"
+name = "tech_future-prototype"
 version = "0.1.0"
 description = ""
 authors = ["vitor <vitor@caletagaming.com>"]
